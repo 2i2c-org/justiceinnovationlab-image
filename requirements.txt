@@ -1,0 +1,14 @@
+pyarrow==4.0.1
+numpy==1.19.5
+pandas==1.1.5
+azure-storage-blob
+azure-identity
+PyPDF2==1.26.0
+pytest
+opencv-python-headless
+xlrd==1.2.0
+dagster
+altair==4.1.0
+pyarrow==4.0.1
+numpy==1.19.5
+pandas==1.1.5
